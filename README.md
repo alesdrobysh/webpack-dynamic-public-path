@@ -6,7 +6,11 @@ It is extremely helpful when you prepare a build for Salesforce Visualforce page
 
 ## Usage
 
-Just add this plugin to a plugins section of webpack config:
+Installation is easy with npm:
+
+    npm install webpack-dynamic-public-path-plugin
+
+Then require it in your webpack config and add it to a plugins section:
 
 ```javascript
 plugins: [

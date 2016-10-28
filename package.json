@@ -1,0 +1,20 @@
+{
+  "name": "webpack-dynamic-public-path-plugin",
+  "version": "1.0.0",
+  "description": "A webpack plugin that assigns specified expression to public path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alesdrobysh/webpack-dynamic-public-path.git"
+  },
+  "keywords": [
+    "Webpack",
+    "Plugin"
+  ],
+  "author": "Ales Drobysh",
+  "license": "MIT",
+  "homepage": "https://github.com/alesdrobysh/webpack-dynamic-public-path"
+}
